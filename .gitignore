@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore node_modules (if experiments happen later)
+node_modules/
