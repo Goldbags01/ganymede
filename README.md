@@ -1,5 +1,4 @@
-
-readme_text = """# GANYMEDE
+GANYMEDE
 
 > “The only thing more dangerous than divergence is silence.”  
 > — io-fieldlog-001
