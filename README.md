@@ -1,4 +1,4 @@
-# Prepare a README signal landing page for the `ganymede` repository
+
 readme_text = """# GANYMEDE
 
 > “The only thing more dangerous than divergence is silence.”  
