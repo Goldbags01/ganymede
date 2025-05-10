@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Prepare a README signal landing page for the `ganymede` repository
 readme_text = """# GANYMEDE
 
